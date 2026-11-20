@@ -1,1 +1,1 @@
-# tuni
+# gitcourse
